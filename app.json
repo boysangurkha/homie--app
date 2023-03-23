@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "homie",
+    "slug": "homie",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
